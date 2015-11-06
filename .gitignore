@@ -1,0 +1,4 @@
+wp
+*.pyc
+tags
+.coverage
