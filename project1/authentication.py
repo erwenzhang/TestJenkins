@@ -13,3 +13,6 @@ def login(username, password):
     except Exception, exc:
         print "I can't authenticate you."
         return False
+
+def logout():
+    print 'You are now logged out.'
